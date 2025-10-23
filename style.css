@@ -1,0 +1,59 @@
+#total
+{
+  background-image: url('background-image.jpg');
+  background-size: auto;
+  background-position: center center;
+  height: 909px;
+  font-family: "Trebuchet MS", sans-serif;
+  padding-top: 40px;
+}
+
+#main-body
+{
+  background-color: white;
+  border: 1px;
+  padding: 10px;
+  width: 50%;
+  padding-top: 1px;
+}
+
+#heading
+{
+  text-align: right;
+  background-color: #a8f0ef;
+  color: #3fb4b2;
+}
+
+#friends
+{
+  text-align: left;
+  background-color: #3fe0d0;
+  border: 5px solid #0a8585;
+  padding: 10px;
+  width: 20%;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+#spatulas
+{
+  text-align: left;
+  background-color: #e8fafa;
+  border: 5px solid #c2e8eb;
+  padding: 5px;
+  display: inline-block;
+  width: 68%;
+}
+
+#cookie
+{
+  text-align: left;
+  background-color: #e8fafa;
+  border: 5px solid #c2e8eb;
+  padding: 5px;
+  display: inline-block;
+  width: 68%;
+  margin-left: 229px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
